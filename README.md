@@ -4,8 +4,6 @@ I'm a third year Computer Engineering student at Jönköping University, special
 
 Through my studies and projects, I've gained experience in software development, programming, and embedded systems. I enjoy turning ideas into practical solutions, exploring new technologies, and developing my technical skills.
 
-I'm always eager to learn, take on new challenges, and collaborate with others to solve real world problems.
-
 ### 🛠️ Technical Skills
 
 - **Programming Languages:** Python, C, JavaScript, Haskell
@@ -15,4 +13,21 @@ I'm always eager to learn, take on new challenges, and collaborate with others t
 - **Databases:** SQL, MySQL, MySQL Workbench
 - **Microsoft Office:** Word, Excel, PowerPoint, Outlook
 
-- 
+### 🚀 Featured Projects
+
+**[UniLife – Student Web Application](https://github.com/marinaalr/UniLife)**
+- Collaborated on the development of a web application for student planning and task management.
+- **Technologies:** React, JavaScript
+
+**[CALM List – Task Management Application](https://github.com/kuan23pc/CALM_LIST)**
+- Developed a desktop application for organizing and managing tasks.
+- **Technologies:** Python, Tkinter, JSON
+
+**[Microcomputer Programming](https://github.com/christinaoutra/Microcomputer_2026)**
+- Worked with embedded programming and hardware interaction using STM32 microcontrollers.
+- **Technologies:** C, STM32, STM32CubeIDE
+
+### 📫 Contact & Links
+
+- **LinkedIn:** [Christina Outra](https://www.linkedin.com/in/christina-outra-3320b4208/)
+- **Email:** [christinaou22@gmail.com](mailto:christinaou22@gmail.com)
