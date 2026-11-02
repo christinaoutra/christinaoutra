@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Christina! 👋
 
 I'm a third year Computer Engineering student at Jönköping University, specializing in Artificial Intelligence.
 
