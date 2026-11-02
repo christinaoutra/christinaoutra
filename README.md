@@ -8,9 +8,9 @@ I'm always eager to learn, take on new challenges, and collaborate with others t
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** Python, C, C#, JavaScript, Haskell
+- **Programming Languages:** Python, C, JavaScript, Haskell
 - **Web Development:** HTML, CSS, React, Node.js
-- **Embedded Systems & Hardware:** STM32 (NUCLEO), Boolean FPGA Board, VHDL, hardware-level programming in C
+- **Embedded Systems & Hardware:** STM32, FPGA, VHDL
 - **Development Tools:** Visual Studio Code, Git, GitHub, Xilinx Vivado, STM32CubeIDE, STM32CubeMX, npm, PuTTY
 - **Databases:** SQL, MySQL, MySQL Workbench
 - **Microsoft Office:** Word, Excel, PowerPoint, Outlook
